@@ -1,0 +1,7 @@
+/ocr_env/
+/models/
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.png
